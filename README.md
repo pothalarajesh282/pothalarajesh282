@@ -54,6 +54,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Array Methods: Understanding Map, Filter, and Reduce](https://medium.com/@pothalarajesh282/javascript-array-methods-understanding-map-filter-and-reduce-2a789ac5b764?source=rss-0549f461fe9e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 Most Used Languages
