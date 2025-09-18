@@ -52,6 +52,10 @@
 
 ---
 
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### 📊 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pothalarajesh282&layout=compact&theme=radical" alt="Top Languages" />
